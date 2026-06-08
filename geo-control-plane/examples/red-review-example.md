@@ -1,3 +1,5 @@
+🌐 **Language:** [English](red-review-example.md) · [Español](red-review-example.es.md)
+
 # RED_REVIEW Example
 
 ## Request

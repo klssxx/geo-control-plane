@@ -1,23 +1,22 @@
 🌐 **Language:** [English](validate-yaml-example.md) · [Español](validate-yaml-example.es.md)
 
-# VALIDATE YAML Example
+# Ejemplo de VALIDATE YAML
 
-## Request
+## Solicitud
 
 ```text
 Validate the public GEO manifest and index.
 AUTHORIZE_GEO_VALIDATION_EXECUTION
 ```
 
-## Route
+## Ruta
 
 ```text
 VALIDATE
 ```
 
-## Command
+## Comando
 
 ```bash
 python scripts/validate_yaml.py
 ```
-

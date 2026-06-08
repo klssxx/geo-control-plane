@@ -1,3 +1,5 @@
+🌐 **Language:** [English](CONTRIBUTING.md) · [Español](CONTRIBUTING.es.md)
+
 # Contributing
 
 Contributions should preserve the control-plane boundaries.

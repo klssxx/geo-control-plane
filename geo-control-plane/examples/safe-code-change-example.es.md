@@ -1,30 +1,29 @@
 🌐 **Language:** [English](safe-code-change-example.md) · [Español](safe-code-change-example.es.md)
 
-# Safe Code Change Example
+# Ejemplo de cambio de código seguro
 
-## Request
+## Solicitud
 
 ```text
 Plan a bounded code change in ./example-worktree and define rollback.
 ```
 
-## Route
+## Ruta
 
 ```text
 PLAN
 ```
 
-## Execution Gate
+## Puerta de ejecución
 
 ```text
 AUTHORIZE_GEO_CODE_WORKTREE_PHASE
 ```
 
-## Required Before Execution
+## Requerido antes de la ejecución
 
-- explicit worktree
-- scoped plan
-- backup or restore point
-- rollback
-- validation command
-
+- worktree explícito
+- plan limitado al alcance
+- respaldo o punto de restauración
+- reversión
+- comando de validación

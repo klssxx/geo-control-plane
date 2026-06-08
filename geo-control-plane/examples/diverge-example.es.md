@@ -1,20 +1,19 @@
 🌐 **Language:** [English](diverge-example.md) · [Español](diverge-example.es.md)
 
-# DIVERGE Example
+# Ejemplo de DIVERGE
 
-## Request
+## Solicitud
 
 ```text
 Suggest three non-obvious ways to simplify this agent workflow.
 ```
 
-## Route
+## Ruta
 
 ```text
 DIVERGE
 ```
 
-## Rule
+## Regla
 
-Divergent output is a hypothesis. It must pass critique and validation before becoming a plan.
-
+La salida divergente es una hipótesis. Debe pasar crítica y validación antes de convertirse en un plan.

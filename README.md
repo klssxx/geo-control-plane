@@ -1,3 +1,5 @@
+🌐 **Language:** [English](README.md) · [Español](README.es.md)
+
 # GEO Control Plane Public Edition
 
 A safety-first orchestration template for AI coding agents.

@@ -2,9 +2,9 @@
 
 # MASTER_INDEX
 
-Status: `PUBLIC_TEMPLATE`
+Estado: `PUBLIC_TEMPLATE`
 
-## Required Read Order
+## Orden de lectura requerido
 
 1. `README.md`
 2. `QUICKSTART.md`
@@ -14,7 +14,7 @@ Status: `PUBLIC_TEMPLATE`
 6. `docs/RUNTIME_LIMITS.md`
 7. `GEO-MANIFEST.yaml`
 
-## Core Files
+## Archivos principales
 
 - `README.md`
 - `LICENSE`
@@ -34,6 +34,6 @@ Status: `PUBLIC_TEMPLATE`
 - `examples/validate-yaml-example.md`
 - `scripts/validate_yaml.py`
 
-## Public Boundary
+## Frontera pública
 
-This edition excludes private backups, logs, runtime dumps, tokens, API keys, credentials, temporary files, private prompts, and machine-specific configuration.
+Esta edición excluye respaldos privados, registros, volcados de ejecución, tokens, claves de API, credenciales, archivos temporales, prompts privados y configuración específica de máquina.

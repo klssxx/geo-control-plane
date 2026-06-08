@@ -1,28 +1,28 @@
 🌐 **Language:** [English](QUICKSTART.md) · [Español](QUICKSTART.es.md)
 
-# QUICKSTART
+# INICIO RÁPIDO
 
-## 1. Clone Or Open The Repository
+## 1. Clona o abre el repositorio
 
 ```bash
 cd geo-control-plane
 ```
 
-## 2. Read The Public Boundary
+## 2. Lee la frontera pública
 
-Start with:
+Comienza con:
 
 - `README.md`
 - `docs/GATES.md`
 - `docs/RUNTIME_LIMITS.md`
 
-## 3. Run Validation
+## 3. Ejecuta la validación
 
 ```bash
 python scripts/validate_yaml.py
 ```
 
-Expected:
+Esperado:
 
 ```text
 YAML_PARSE_PASS 2
@@ -32,17 +32,17 @@ FILES_CHECKED 24
 RESULT PASS
 ```
 
-## 4. Try The Examples
+## 4. Prueba los ejemplos
 
 - `examples/audit-only-example.md`
 - `examples/safe-code-change-example.md`
 - `examples/red-review-example.md`
 
-## 5. Adapt Safely
+## 5. Adapta con seguridad
 
-When adapting this template:
+Al adaptar esta plantilla:
 
-- keep private paths out of public files
-- keep gates literal
-- keep validation reproducible
-- do not mix planning and execution
+- mantén las rutas privadas fuera de los archivos públicos
+- mantén las puertas (gates) literales
+- mantén la validación reproducible
+- no mezcles planificación y ejecución

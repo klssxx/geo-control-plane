@@ -1,3 +1,5 @@
+🌐 **Language:** [English](README.md) · [Español](README.es.md)
+
 # GEO Control Plane
 
 A safety-first control layer for AI coding agents.

@@ -1,3 +1,5 @@
+🌐 **Language:** [English](audit-only-example.md) · [Español](audit-only-example.es.md)
+
 # AUDIT Only Example
 
 ## Request

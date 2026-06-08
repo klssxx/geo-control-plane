@@ -1,3 +1,5 @@
+🌐 **Language:** [English](GATES.md) · [Español](GATES.es.md)
+
 # GATES
 
 Gates are literal authorization strings. A paraphrase is not enough.

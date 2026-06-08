@@ -1,3 +1,5 @@
+🌐 **Language:** [English](SECURITY.md) · [Español](SECURITY.es.md)
+
 # Security Policy
 
 This repository must not contain secrets, credentials, private prompts, runtime dumps, logs, real backups, or machine-specific configuration.

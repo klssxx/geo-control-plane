@@ -1,3 +1,5 @@
+🌐 **Language:** [English](SECURITY.md) · [Español](SECURITY.es.md)
+
 # Security Policy
 
 ## Scope

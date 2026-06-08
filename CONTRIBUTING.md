@@ -1,3 +1,5 @@
+🌐 **Language:** [English](CONTRIBUTING.md) · [Español](CONTRIBUTING.es.md)
+
 # Contributing
 
 Preserve the control-plane boundary:

@@ -1,3 +1,5 @@
+🌐 **Language:** [English](RUNTIME_LIMITS.md) · [Español](RUNTIME_LIMITS.es.md)
+
 # RUNTIME_LIMITS
 
 This public edition is not a runtime controller.

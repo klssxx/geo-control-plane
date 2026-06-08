@@ -1,3 +1,5 @@
+🌐 **Language:** [English](ARCHITECTURE.md) · [Español](ARCHITECTURE.es.md)
+
 # ARCHITECTURE
 
 GEO Control Plane is a boundary model for AI coding agents.
