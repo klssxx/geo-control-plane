@@ -1,0 +1,12 @@
+14_BACKUPS/
+logs/
+*.log
+*.tmp
+*.bak
+*.key
+*.pem
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+
